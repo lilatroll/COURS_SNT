@@ -1,0 +1,32 @@
+nom_question:ex7
+rep_question:
+from math import*
+def surface(L, M):
+    '''renvoie la surface corporelle d'une personne de taille L et de masse m'''
+    return sqrt(L*M)/6
+print(surface(1.8, 75))
+
+
+nom_question:ex8_1_c
+rep_question:m
+Cette fonction permet de calculer des images par la fonction affine §b;f§ qui à §b;x§ associe §b;3x-1§.
+
+nom_question:ex8_2_c
+rep_question:m
+Dans la console, on teste : §b;affine(-5,2,4)§.
+
+nom_question:ex11_d
+rep_question:m
+Un article de 250 euros coûte 200 euros après une réduction de 20 %.
+
+nom_question:ex12_d
+rep_question:m
+a%b correspond au reste de la division euclidienne de l'entier a par l'entier b.
+
+nom_question:ex13_a
+rep_question:m
+Périmètre = 2*pi*rayon  et  Aire = pi*rayon².
+
+nom_question:ex13_b
+rep_question:m
+Un seul argument suffit : le rayon.
